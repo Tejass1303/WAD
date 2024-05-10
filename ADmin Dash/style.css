@@ -1,0 +1,58 @@
+.main{
+    height: 800px;
+    width: 1650px;
+    border: solid black;
+    display: flex;
+    background-color: rgb(35, 33, 33);
+}
+
+.sidebar{
+    height: 780px;
+    width: 300px;
+    border: solid black;
+    margin: 8px;
+    background-color: rgb(178, 149, 105);
+}
+
+.sidebar h2{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    font-style: oblique;
+
+}
+.sidebar h4{
+    text-align: center;
+}
+
+.sidebar  button{
+    height: 40px;
+    width: 250px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+.cards{
+    height: 740px;
+    width: 300px;
+    border: solid black;
+    margin: 8px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: rgb(121, 121, 149);
+}
+.cards h3{
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+    color: antiquewhite;
+}
+
+.cards p{
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+}
